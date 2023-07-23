@@ -60,6 +60,7 @@ a:hover {
 
 .logo {
   font-size: 2rem;
+  margin-left: 60px;
 }
 
 .logo:hover {
@@ -174,6 +175,7 @@ section {
   height: 400px;
   width: 400px;
   margin: auto 0;
+  margin-left: 0px;
 }
 
 .section__text {
@@ -366,8 +368,10 @@ article .icon {
 
 .project-img {
   border-radius: 2rem;
-  width: 90%;
-  height: 90%;
+  width: 400px; 
+  height: 350px; 
+}
+
 }
 
 .project-title {
